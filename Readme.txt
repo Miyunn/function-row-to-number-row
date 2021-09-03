@@ -1,5 +1,4 @@
-Double click on scroll.exe to launch
-
+Download and Launch on scroll.exe to use the script
 If autostart is required
 
 1. Put autostart.bat in the startup folder
