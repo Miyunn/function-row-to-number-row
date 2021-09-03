@@ -1,4 +1,4 @@
-Download and Launch on scroll.exe to use the script
+Download and Launch on functionkeyscript.exe to use the script
 
 If autostart is required
 1. Put autostart.bat in the startup folder (type 'shell:startup' in run to open location)
