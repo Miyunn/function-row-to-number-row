@@ -3,7 +3,9 @@
 ## Usage 
 When the **Scroll Lock** is **active** on the keyboard, the function row of the keyboard will act as the number row just like how most 60/65% keyboard but reversed. 🙃
 
-Just run the executable file to use
+
+## How to 
+Download the functionkeyscript.exe from the latest release and execute 
 
 
 ## Instructions to auto start on windows login
